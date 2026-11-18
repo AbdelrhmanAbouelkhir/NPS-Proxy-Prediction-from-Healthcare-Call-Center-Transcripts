@@ -1,5 +1,3 @@
-# NPS-Proxy-Prediction-from-Healthcare-Call-Center-Transcripts
-
 # NPS-Proxy Prediction from Healthcare Call-Center Transcripts
 
 End-to-end NLP pipeline that classifies call transcripts as **detractor / passive / promoter** using the AIxBlock 92k call-center dataset (Medicare, medical equipment, insurance).
